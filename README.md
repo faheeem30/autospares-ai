@@ -1,6 +1,5 @@
 # AutoSpares AI
 AI-Powered Automobile Spare Parts Management System
-
 <img width="1888" height="950" alt="image" src="https://github.com/user-attachments/assets/d81521bc-bdc0-4791-a9a6-342215cbeaa0" />
 <img width="1918" height="946" alt="image" src="https://github.com/user-attachments/assets/c543b2de-80b5-4b5c-95eb-be3c40e8b8fd" />
 <img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/ab70faae-1b2d-4099-a9cc-b8846babf29c" />
