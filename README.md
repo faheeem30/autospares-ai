@@ -1,9 +1,10 @@
 # AutoSpares AI
 AI-Powered Automobile Spare Parts Management System
-<img width="1888" height="950" alt="image" src="https://github.com/user-attachments/assets/d81521bc-bdc0-4791-a9a6-342215cbeaa0" />
-<img width="1918" height="946" alt="image" src="https://github.com/user-attachments/assets/c543b2de-80b5-4b5c-95eb-be3c40e8b8fd" />
-<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/ab70faae-1b2d-4099-a9cc-b8846babf29c" />
-<img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/7e8b9f9f-90a0-4910-b206-e53efa159b7a" />
+
+<img width="1902" height="937" alt="image" src="https://github.com/user-attachments/assets/3278fb39-6287-4621-a4ea-59c77ed7d706" />
+<img width="1918" height="937" alt="image" src="https://github.com/user-attachments/assets/a224c529-1178-43b5-8d30-2dc18fe5a637" />
+<img width="1917" height="953" alt="image" src="https://github.com/user-attachments/assets/5e982ac0-2d77-43c1-a14a-5878afeebe98" />
+
 
 A full-stack web application for managing an automobile spare parts business with three role-locked portals, real AI integration, and automated email notifications.
 
